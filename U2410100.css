@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    background-color: #283593;
+    color: white;
+    padding: 1rem 0;
+}
+
+section {
+    margin: 20px auto;
+    width: 80%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+a {
+    color: #1976d2;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol {
+    padding-left: 40px;
+}
+
+img {
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 8px;
+}
